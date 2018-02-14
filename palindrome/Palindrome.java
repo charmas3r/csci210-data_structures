@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Palindrome here.
+ * Recursive algorithm to determine if a string is a palindrome
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Evan Smith 
+ * @version 2017
  */
 public class Palindrome
 {
